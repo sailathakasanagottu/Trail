@@ -1,0 +1,10 @@
+<!DocType html>
+<html>
+<head>
+<title>Hi All</title>
+</head>
+
+<body>
+<p>Bye All</p>
+</body>
+</html>
